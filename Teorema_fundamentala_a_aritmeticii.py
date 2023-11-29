@@ -1,4 +1,4 @@
-#
+#fctguhijohc
 # Ecuatia de gradul 2
 # Ax^2 + Bx + c = 0
 # Relatiile lui Viete:
